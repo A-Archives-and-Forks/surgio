@@ -39,7 +39,7 @@ sidebarDepth: 1
 
 我们看到此时 `outbounds` 已经包含了一些内容，我们要做的就是把节点信息填充到 `outbounds` 中。
 
-把这个文件保存在 `tempalte` 目录下，命名为 `singbox.json`。
+把这个文件保存在 `template` 目录下，命名为 `singbox.json`。
 
 ## 编写 Artifact
 
